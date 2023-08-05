@@ -1,0 +1,10 @@
+{
+    "name": "luisl/pasta_teste",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Luisl\\PastaTeste\\": "src/"
+        }
+    },
+    "require": {}
+}
